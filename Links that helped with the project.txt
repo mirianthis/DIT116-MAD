@@ -1,0 +1,8 @@
+https://developer.android.com/training/location/geofencing
+https://www.raywenderlich.com/7372-geofencing-api-tutorial-for-android
+https://www.youtube.com/watch?v=nmAtMqljH9M&t=1033s
+https://github.com/trulymittal/Geofencing/blob/master/app/src/androidTest/java/com/example/geofencing/ExampleInstrumentedTest.java
+https://stackoverflow.com/questions/46804775/room-persistence-library-and-content-provider
+https://www.youtube.com/watch?v=kcFjBtEVikE
+https://www.youtube.com/watch?v=Nsl99WWDFxM
+https://www.youtube.com/watch?v=77BO6UiWt4A
